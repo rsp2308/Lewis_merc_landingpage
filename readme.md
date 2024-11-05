@@ -1,7 +1,7 @@
 # Landing Page Animation Project
 
 This project is a landing page with interactive text animations and background effects. The animations are powered by GSAP and Shery.js, providing a dynamic and engaging user experience.<br>
-![Screenshot 2024-11-03 194657](https://github.com/user-attachments/assets/9412abe6-7b12-4888-bab1-0037111993ce)
+### ![Screenshot 2024-11-03 194657](https://github.com/user-attachments/assets/9412abe6-7b12-4888-bab1-0037111993ce)
 
 
 ## Description
